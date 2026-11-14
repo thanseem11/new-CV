@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+          <title>My Cv</title>
+          <body bgcolor="#ffffff" Text="Black" background="3d-flying-apps-icons-and-laptop-computer-isolated-on-a-white-background-F28W84.jpg">   
+            <h1> <Text Align="Center"> <big>Thanseem CV For Work </big></Text Align="Center"> <br><br></h1>
+            <p><B> <BIG>PERSONAL INFORMATIONS </BIG>   </B> <br>
+         1.Address : 78/c Fowz Mawethe,<br> Malaiyadi Giramam 4 Sammanthurai</Address><br>
+      2.Mobile : 072152643<br>
+    3.Email : tmaster1147@gmail.com <hr>  </p>
+
+    <h2> <B><small></small> CAREER OPJECTIVE</B></h2>
+    <P>To obtain a challenging and rewarding position in a reputable organization where<br>
+         I can utilize my knowledge, skills, and abilities, gain valuable work experience,<br>
+          improve my professional skills, and contribute positively to the growth and success of the <br>
+          organization through dedication, hard work, and a willingness to learn.</P><hr>
+        
+          <h3> <U> <BIG>EDUCATION QUALIFICATIONS</U></BIG><b> </b></h3>
+          <P> 1. Advanced Leval (A/L) From Thableequl Islam Arebic College <br>
+              2. Cetificate of Hafiz And Moulevi From Thableequl Islam Arebic Colleg<br>
+            3. Diploma In Hathees From Thableequl Islam Arebic Colleg   </P>
+
+            <h4><B><BIG><u> COMPUTER SKILLS</u></BIG></B></h4>
+            <P>1.Oprating System Installition<br>
+            2.Oprating MS Office <br>
+            3. Softwere Developer<br>
+            4. Web Designer <br>
+             5. Graphic Designer</P>
+
+
+
+
+
+        
+        
+        </body>
+        
+    </head>
+</html>
